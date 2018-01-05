@@ -1,5 +1,5 @@
 #npm 除錯記錄檔
-npm-debug.log*
+*.log
 #專案依賴關係
 node_modules
 #OSX 資料夾屬性
